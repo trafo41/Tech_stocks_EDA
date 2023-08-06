@@ -1,7 +1,9 @@
-# Tech_stocks_EDA
+# Tech Stocks EDA
 
 Data and Tools used
 --
 **Data**          : Real Market data of stocks(Google, Apple, Microsoft and Apple) between 2013-2018
+
 **Analysis**      : Python(Pandas and Numpy)
+
 **Visualisation** : Python(Matplotlib, Plotly, Seaborn)
